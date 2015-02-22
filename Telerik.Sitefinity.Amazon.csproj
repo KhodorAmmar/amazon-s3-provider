@@ -48,13 +48,13 @@
     <Reference Include="System.Xml" />
     <Reference Include="Telerik.OpenAccess">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\bin\Telerik.OpenAccess.dll</HintPath>
+      <HintPath>..\..\dubai-airports-sitefinity\src\bin\Telerik.OpenAccess.dll</HintPath>
     </Reference>
     <Reference Include="Telerik.Sitefinity">
-      <HintPath>..\bin\Telerik.Sitefinity.dll</HintPath>
+      <HintPath>..\..\dubai-airports-sitefinity\src\bin\Telerik.Sitefinity.dll</HintPath>
     </Reference>
     <Reference Include="Telerik.Sitefinity.Model">
-      <HintPath>..\bin\Telerik.Sitefinity.Model.dll</HintPath>
+      <HintPath>..\..\dubai-airports-sitefinity\src\bin\Telerik.Sitefinity.Model.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
